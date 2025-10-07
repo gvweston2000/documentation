@@ -21,7 +21,10 @@ Example:
 
 ```
 documentation/
-└── python/
+├── python/
+│   └── python-and-pycharm-setup-guide.md
+└── github/
+    └── github-repository-setup-guide.md
 ```
 
 (Directories will expand over time as new material is added.)
